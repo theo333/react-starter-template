@@ -4,7 +4,7 @@
   "description": "",
   "main": "db.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "pg": "^7.10.0",
     "morgan": "^1.9.1",
     "react": "^16.8.3",
